@@ -1,0 +1,8 @@
+La page elle est grise 
+j'ai un bloc blanc avec des contours  arrondit (border radius) 
+il contient à l'intérieur un autre blog qui contient une image de
+QR code fournit avec un espace faible en haut
+et large en bas pour inscrire du texte. 
+Le texte ya un titre 2 avec du texte 
+puis un bloc de p avec du texte 
+Entre c'est deux la y a un espace blanc faible mais voyant 

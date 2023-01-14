@@ -1,0 +1,52 @@
+body {
+    background-color: var(--color-background);
+  background: radial-gradient(var(--color-background), var(--color-accent));
+  background-size: 200%;
+  color: var(--color-text);
+  font-family: sans-serif;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh;
+}
+h3{
+    font-size: 42px;
+    text-align: center;
+    font-weight: bolder;
+    padding-top: 10px;
+    padding-left: 15px;
+    padding-right: 10px;
+    
+}
+p {
+    margin-top: 20px;
+    font-size: 30px;
+    margin-left: 1em;
+    margin-right: 1em;
+    margin-bottom: 1px;
+    color: rgb(149, 167, 167);
+    text-align: center;
+    padding: 10px  ;
+}
+.container {
+  display: block;
+  block-size: 900px;
+  background-color: #FFFF;
+  padding: 2rem 2rem;
+  border: 2px solid var(--color-text);
+  /*box-shadow: 7px 6px 0 0 var(--color-text);*/
+  border-radius: 5%;
+  max-width: 52em;
+  max-height: 500%;
+  font-size: 11px;
+  text-align: center;
+  margin : 1em
+}
+img {
+    border-radius: 5%;
+    
+    margin : 1px 0 1px 0 ; 
+}
+
+
+/*  <img class img class="qr-code" src="images\image-qr-code.png">*/
